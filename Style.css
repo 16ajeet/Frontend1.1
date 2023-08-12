@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Inter', sans-serif;
+}
+
+.main {
+    background-color: transparent;
+    width: 90vw;
+    height: 800px;
+    margin-top: 47px;
+    margin-left: 38px;
+    border: 4px solid black;
+
+
+}
+
+.div-1 {
+    padding-top: 15px;
+    width: 80vw;
+    height: 400px;
+    margin-top: 94.4564208984375px;
+    margin-left: 89px;
+    padding-right: 40px;
+}
+
+.p-1 {
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-bottom: 5px solid black;
+    width: fit-content;
+
+}
+
+
+.headline {
+    margin-left: 30px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 20px;
+    border-bottom: 4px solid black;
+    width: fit-content;
+}
+
+.list {
+    padding-top: 50px;
+    margin-left: 70px;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 68px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 60px;
+
+}
+
+.trivia {
+    margin-top: 50px;
+
+}
+
+
+.p-2 {
+
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+.read {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 39px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+}
+
+.image {
+    margin-top: 20px;
+    margin-left: 38px;
+}
+
+.img-head {
+    width: fit-content;
+    border-bottom: 4px solid black;
+    padding-top: 40px;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 77px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.img-pic {
+    padding-top: 30px;
+    width: 70vw;
+    margin-bottom: 20px;
+}
+
+.more-img {
+    color: black;
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+}
